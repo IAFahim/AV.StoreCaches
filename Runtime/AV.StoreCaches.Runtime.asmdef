@@ -1,3 +1,5 @@
-name: AV.StoreCaches.Runtime
-rootNamespace: AV.StoreCaches
-autoReferenced: true
+{
+    "name": "AV.StoreCaches.Runtime",
+    "rootNamespace": "AV.StoreCaches",
+    "autoReferenced": true
+}
