@@ -1,0 +1,25 @@
+{
+  "name": "com.av.storecaches",
+  "version": "1.0.0",
+  "displayName": "AV Store Caches",
+  "description": "Efficient change tracking and caching system for optimized data access and performance.",
+  "unity": "2021.3",
+  "keywords": [
+    "caching",
+    "change-tracking",
+    "optimization",
+    "performance"
+  ],
+  "author": {
+    "name": "IAFahim",
+    "email": "iafahim.dev@gmail.com",
+    "url": "https://github.com/IAFahim"
+  },
+  "license": "MIT",
+  "category": "Utilities",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IAFahim/AV.StoreCaches"
+  },
+  "licensesUrl": "https://github.com/IAFahim/AV.StoreCaches/blob/main/LICENSE.md"
+}
